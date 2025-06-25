@@ -1,4 +1,4 @@
-# SVM-using-Digits
+# SVM using Digits
 Experimenting with Support Vector Machine (SVM)
 
 ## Instructions
